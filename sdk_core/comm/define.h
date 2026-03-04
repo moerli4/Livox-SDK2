@@ -33,6 +33,7 @@
 #include <atomic>
 
 #include "livox_lidar_def.h"
+#include <cstdint>
 
 namespace livox {
 namespace lidar {
